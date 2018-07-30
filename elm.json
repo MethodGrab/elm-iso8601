@@ -3,7 +3,7 @@
     "name": "rtfeldman/elm-iso8601",
     "summary": "Convert ISO8601 date strings to and from Posix times",
     "license": "BSD-3-Clause",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "exposed-modules": [
         "Iso8601"
     ],
